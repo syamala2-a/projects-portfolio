@@ -2,12 +2,12 @@
 
 # Sameer Yamala
 
-Second-year college student, currently interning as a data science intern at i2o Retail. This repo is an index of projects I'm building, mostly around data analysis, forecasting, and machine learning.
+Second-year undergraduate student at the University of Illinois. at Urbana-Champaign, majoring in Information Sciences + Data with minors in Computer Science and Statistics. This repo is an index of projects I'm building, mostly around data analysis, forecasting, and machine learning.
 
 ## Skills
 
 - Python (pandas, scikit-learn, PyCaret)
-- Jupyter notebooks, Streamlit
+- Jupyter notebooks, Streamlit, Tableau
 - Data cleaning, feature engineering, model evaluation
 - Working with time series and marketplace/retail data
 
