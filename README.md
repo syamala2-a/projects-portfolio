@@ -20,4 +20,11 @@ A model that compares Fed inflation data trends against Google search trends to 
 
 What I used: Python, PyCaret, pandas, correlation analysis, time series backtesting
 
+### Vermont Business Recommender
+Repo: https://github.com/syamala2-a/Vermont-business-recommender
+
+A recommender system built on Vermont business review data, using collaborative filtering to predict ratings and suggest businesses users are likely to enjoy. Built for a data mining/recommender systems course assignment.
+
+What I used: Python, Jupyter notebooks, pandas, collaborative filtering
+
 (more projects coming soon)
