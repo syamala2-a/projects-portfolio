@@ -1,4 +1,4 @@
-# projects-portfolio
+# Projects Portfolio
 
 # Sameer Yamala
 
