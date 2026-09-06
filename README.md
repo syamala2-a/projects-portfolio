@@ -27,4 +27,11 @@ A recommender system built on Vermont business review data, using collaborative 
 
 What I used: Python, Jupyter notebooks, pandas, collaborative filtering
 
+### PHM Family Tree Viewer
+Repo: https://github.com/syamala2-a/PHM-family-tree-viewer
+
+A team capstone project: a single-page web app for viewing family trees, with panning/zooming across nodes and clickable member profiles. Built with vanilla JavaScript and Vite.
+
+What I used: JavaScript, HTML/CSS, Vite
+
 (more projects coming soon)
